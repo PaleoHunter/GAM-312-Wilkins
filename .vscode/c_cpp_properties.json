@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "GAM312_WilkinsEditor Editor Win64 Development (GAM312_Wilkins)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

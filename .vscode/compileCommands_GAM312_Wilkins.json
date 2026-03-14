@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\Source\\GAM312_Wilkins\\GAM312_Wilkins.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins\\GAM312_Wilkins.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\Source\\GAM312_Wilkins\\GAM312_Wilkins.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins\\GAM312_Wilkins.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\Source\\GAM312_Wilkins\\GAM312_Wilkins.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins\\GAM312_Wilkins.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\Source\\GAM312_Wilkins\\Gam312PjctGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins\\GAM312_Wilkins.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\Source\\GAM312_Wilkins\\Gam312PjctGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins\\GAM312_Wilkins.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\Source\\GAM312_Wilkins\\PlayerChar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins\\GAM312_Wilkins.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\Source\\GAM312_Wilkins\\PlayerChar.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicke\\OneDrive\\Documents\\Unreal Projects\\GAM312_Wilkins\\.vscode\\compileCommands_GAM312_Wilkins\\GAM312_Wilkins.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
